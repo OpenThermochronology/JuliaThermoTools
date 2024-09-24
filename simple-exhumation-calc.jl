@@ -1,6 +1,6 @@
 ## ---
 
-# A simple calculator to estimate an average (μ ± σ) exhumation depth from thermal history models
+# A calculator to estimate an average (μ ± σ) exhumation depth from thermal history models
 # specifying uniform distributions (or any other distribution) for variables like surface temperature,
 # geothermal gradient, and maximum heating/burial temperature extracted from a thermal history.
 
